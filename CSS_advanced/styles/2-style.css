@@ -1,0 +1,15 @@
+/* 
+    body and anchor tags foreground color: #161616
+    card-category section-tagline foreground color: #D73953
+*/
+html {
+    scroll-behavior: smooth;
+}
+
+body, a {
+    color: #161616;
+}
+
+.card-category, .section-tagline {
+    color: #D73953;
+}
